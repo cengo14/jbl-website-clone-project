@@ -1,0 +1,18 @@
+.favorite {
+  text-align: center;
+  padding: 10px 40px;
+  &-card {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    img{
+        width: 200px;
+        transition: all .5s ease;
+        &:hover{
+            transform: scale(1.18);
+            cursor: pointer;
+        }
+    }
+
+  }
+}
