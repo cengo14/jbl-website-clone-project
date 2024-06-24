@@ -40,7 +40,7 @@ Katkıda bulunmak isterseniz, lütfen bir `pull request` gönderin. Her türlü 
 Projenin bazı ekran görüntüleri:
 
 ### Anasayfa
-![Anasayfa](desktop.gif)
+![Anasayfa](Desktop.gif)
 
 
 ---
